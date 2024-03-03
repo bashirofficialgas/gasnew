@@ -1,0 +1,35 @@
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#212121ff","ele_padding":"30px,0px,30px,0px","pagelayer-id":"r0g1112"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col_width":"45","col_width_tablet":"100","col_width_mobile":"100","pagelayer-id":"yka3132"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_name":"Artville","site_title_state":"normal","text-align":"left","site_title_style":"Muli,35,,700,,,Solid,,,,","title_color":"#ffffffff","title_padding":"0,0,0,0","site_title_style_tablet":",30,,,,,Solid,,,,","site_title_style_mobile":",28,,,,,Solid,,,,","pagelayer-id":"0b16260"} /-->
+<!-- sp:pagelayer/pl_divider {"divider_style":"solid","divider_color":"#2196f3ff","divider_weight":"3","divider_widht":"15","divider_gap":"2","divider_alignment":"left","divider_widht_tablet":"10","divider_widht_mobile":"20","pagelayer-id":"g025714"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eEu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. \u003c\/p\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"8tu1088"} --><p>Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. </p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":"6","icon_size":"14","color_scheme":"","icon_color":"#ffffffff","social_hover_delay":"400","icon_color_hover":"#ffffff","bg_shape":"pagelayer-social-shape-circle","bg_size":"10","icon_bg_color":"#2196f3ff","icon_bg_color_hover":"#0986c0","pagelayer-id":"ght5975"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"o8q1720"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"psa1667"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-google-plus-g","social_url":"https:\/\/accounts.google.com\/sitepad","pagelayer-id":"mcb5533"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/www.instagram.com\/sitepad","pagelayer-id":"0n78537"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col_width":"25","col_width_tablet":"100","col_width_mobile":"100","pagelayer-id":"yvr1400"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch3\u003eUseful Links\u003c\/h3\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"4qj6116"} --><h3>Useful Links</h3><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_divider {"divider_style":"solid","divider_color":"#2196f3ff","divider_weight":"3","divider_widht":"35","divider_gap":"2","divider_alignment":"left","divider_widht_tablet":"10","divider_widht_mobile":"20","pagelayer-id":"glr5071"} /-->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"23","list_text_state":"normal","item_indent":"0","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","list_color":"#ffffffff","list_typo":",,,,,,Solid,,,,","side_spacing":"0","pagelayer-id":"o0f1818"} -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nHome","pagelayer-id":"u845298"} -->Home<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nAbout Us","pagelayer-id":"j071728"} -->About Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nContact us","pagelayer-id":"vkk8829"} -->Contact us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nServices","pagelayer-id":"flh3818"} -->Services<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col_width_tablet":"100","col_width_mobile":"100","col_width":"25","pagelayer-id":"bbu4414"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch3\u003eContact Us\u003c\/h3\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"hic1347"} --><h3>Contact Us</h3><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_divider {"divider_style":"solid","divider_color":"#2196f3ff","divider_weight":"3","divider_widht":"25","divider_gap":"2","divider_alignment":"left","divider_widht_tablet":"10","divider_widht_mobile":"20","pagelayer-id":"v9o7805"} /-->
+<!-- sp:pagelayer/pl_address {"icon":"fas fa-map-marker-alt","color":"#ffffffff","icon_color":"#2196f3ff","icon_size":"24","space":"14","typography":",,,,,,Solid,,,,","pagelayer-id":"aee5536"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"fas fa-phone-alt","color":"#ffffffff","icon_color":"#2196f3ff","icon_size":"20","space":"10","typography":",,,,,,Solid,,,,","pagelayer-id":"d4w7750"} /-->
+<!-- sp:pagelayer/pl_email {"icon":"fas fa-envelope","color":"#ffffffff","typography":",,,,,,Solid,,,,","icon_color":"#2196f3ff","icon_size":"22","space":"10","pagelayer-id":"q4j9665"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#212121ff","ele_padding":"0px,0px,10px,0px","pagelayer-id":"hn62000"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","pagelayer-id":"8f56973"} -->
+<!-- sp:pagelayer/pl_copyright {"color":"#ffffffff","align":"center","typography":"Poppins,14,,500,,,Solid,,,,","copyright_text":"\u00a9 2021 Artville","pagelayer-id":"0ma6304"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
